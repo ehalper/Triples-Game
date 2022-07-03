@@ -1,2 +1,2 @@
-# Triples iOS Game
+# Triples iOS Game Application
 The Triples iOS application is a game that follows similar logic to the game Threes. In addition to the directional tap buttons on the screen, it recognizes swipe gestures for indicating directional moves. The application also displays tile movement animations to demonstrate when the tiles change values. The game also includes a tab for viewing a page that maintains the user's high scores using persistence. The application can be utilized in vertical and horizontal orientation as it adjusts the layout for orientation changes.
