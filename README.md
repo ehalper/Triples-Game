@@ -3,5 +3,6 @@ The Triples iOS application is a game that follows similar logic to the game, Th
 
 
 
-https://user-images.githubusercontent.com/71235972/177027906-456cf885-5727-46fb-a218-0e84a73c2e21.mov
 
+
+![Screen Recording 2022-07-03 at 2 27 44 AM (1)](https://user-images.githubusercontent.com/71235972/177028023-381c2ea9-905c-43f7-9a05-6dd4b474f5ba.gif)
