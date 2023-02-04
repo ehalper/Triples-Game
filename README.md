@@ -8,4 +8,4 @@ The Triples iOS application is a game that follows similar logic to the game, Th
 
 The game begins with 4 tiles populated (either randomly or in the same way if played in deterministic mode). The buttons specify the direction that the tiles should move. For example, if 'up' is pressed, all the tiles will move up one space. If they have no space left to move, they will remain where they are. However, if the tiles are able to combine to sum to 3, 6, 12, 24, 48, 96... (i.e. 1+2=3, 3+3=6, 6+6=12), then they will collapse to that tile. For each move, a random new tile gets spawned to any of the open tiles as either a '1' or '2'. This pattern continues until all the tiles on the board are full, and no more tiles are able to combine...Game over. 
 
-Please contact me if interested in viewing the code.
+Please contact me if interested in viewing the Swift code.
